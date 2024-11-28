@@ -1,0 +1,32 @@
+<resources>
+    //Activity main.xml
+    <string name="app_name">Login_Activity</string>
+    <string name="heading">Demo App</string>
+    <string name="login"> Log In </string>
+    <string name="button2">  Sign Up </string>
+    <string name="button3">Forgot Username/Password</string>
+    <string name="hint1">Username</string>
+    <string name="hint2">Password</string>
+
+    //Activity main 3
+    <string name="heading1">Sign Up</string>
+    <string name="sign1">Name</string>
+    <string name="sign2">E-mail</string>
+    <string name="sign3">Username</string>
+    <string name="sign4">Password</string>
+    <string name="sign5">Re-type Password</string>
+    <string name="pass_check">Check Password</string>
+
+    //Activity  main 2
+    <string name="demo">Forgot Password/Username</string>
+    <string name="forgot1">Enter e-mail</string>
+    <string name="forgot2">Re-Enter e-mail</string>
+    <string name="verify">Verify e-mail</string>
+
+    //Activity main 4
+    <string name="pass">Forgot Password</string>
+    <string name="pass1">Enter Password</string>
+    <string name="pass2">Re-enter Password</string>
+    <string name="button4">verify Password</string>
+
+</resources>
